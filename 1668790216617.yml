@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ♥流量:255.84GB 等级3剩:16.3天
+    name: ♥流量:255.46GB 等级3剩:16.3天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -735,7 +735,7 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - ⚖️ 负载均衡-轮询
       - DIRECT
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -793,7 +793,7 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -851,7 +851,7 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -909,7 +909,7 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -968,7 +968,7 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1026,7 +1026,7 @@ proxy-groups:
       - NetFlixRoute
       - DIRECT
       - 🚧Proxy
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1084,7 +1084,7 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1140,7 +1140,7 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - ⚖️ 负载均衡-轮询
       - NetFlixRoute
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1196,7 +1196,7 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - ⚖️ 负载均衡-轮询
       - NetFlixRoute
-      - ♥流量:255.84GB 等级3剩:16.3天
+      - ♥流量:255.46GB 等级3剩:16.3天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1372,6 +1372,7 @@ rules:
   - DOMAIN-KEYWORD,linkedin,🚧Proxy
   - DOMAIN-KEYWORD,dropbox,🚧Proxy
   - DOMAIN-SUFFIX,licdn.com,🚧Proxy
+  - DOMAIN-SUFFIX,missav.com,🚧Proxy
   - DOMAIN-SUFFIX,amazon.com,🚧Proxy
   - DOMAIN-SUFFIX,media-amazom.com,🚧Proxy
   - DOMAIN-SUFFIX,plex.tv,🚧Proxy
