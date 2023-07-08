@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ♥流量:250.88GB 等级3剩:12.1天
+    name: ♥流量:250.76GB 等级3剩:12天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -138,7 +138,7 @@ proxies:
       path: /zhs
       headers:
         Host: klusr3.zhs.futbol
-  - name: ❶gR.HK奇点/2/NF*/D+/Yp
+  - name: ❶gR.HK奇点/2/NF*/D+
     type: vmess
     udp: true
     server: hkqd2d.uueai.com
@@ -248,7 +248,7 @@ proxies:
       path: /zhs
       headers:
         Host: wzhkb3.uueai.com
-  - name: ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+  - name: ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
     type: vmess
     udp: true
     server: hkjh3r.uueai.com
@@ -735,9 +735,9 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - ⚖️ 负载均衡-轮询
       - DIRECT
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -746,7 +746,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -793,9 +793,9 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -804,7 +804,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -851,9 +851,9 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -862,7 +862,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -909,9 +909,9 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -920,7 +920,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -968,9 +968,9 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -979,7 +979,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -1026,9 +1026,9 @@ proxy-groups:
       - NetFlixRoute
       - DIRECT
       - 🚧Proxy
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1037,7 +1037,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -1084,9 +1084,9 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1095,7 +1095,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -1140,9 +1140,9 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - ⚖️ 负载均衡-轮询
       - NetFlixRoute
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1151,7 +1151,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -1196,9 +1196,9 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - ⚖️ 负载均衡-轮询
       - NetFlixRoute
-      - ♥流量:250.88GB 等级3剩:12.1天
+      - ♥流量:250.76GB 等级3剩:12天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1207,7 +1207,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
