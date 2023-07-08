@@ -5,4 +5,5 @@ cd /Users/JayGee/Documents/GitHub/vault/
 git add .
 git commit -m "$(date)"
 git push
-osascript -e 'tell application "Terminal" to close (every window whose name contains "profileUpdate.sh")'
+exit
+#osascript -e 'tell application "Terminal" to close (every window whose name contains "profileUpdate.sh")'
