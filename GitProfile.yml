@@ -487,7 +487,7 @@ proxies:
     servername: jpknh5.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❸gR.SG星岛/1/NF*/D+/Yp
+  - name: ❸gR.SG星岛/1/NF/D+/Yp
     type: vmess
     udp: true
     server: sgali-rd6.uueai.com
@@ -766,7 +766,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -824,7 +824,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -882,7 +882,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -940,7 +940,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -999,7 +999,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1057,7 +1057,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1115,7 +1115,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1171,7 +1171,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1227,7 +1227,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF*/D+/Yp
-      - ❸gR.SG星岛/1/NF*/D+/Yp
+      - ❸gR.SG星岛/1/NF/D+/Yp
       - CN1•❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1410,6 +1410,10 @@ rules:
   - DOMAIN-KEYWORD,dualstack.apiproxy-,NetFlixRules
   - RULE-SET,netflix,NetFlixRules
   - RULE-SET,netflixcidr,NetFlixRules,no-resolve
+  - IP-CIDR,210.0.153.0/24,NetFlixRules,no-resolve
+  - IP-CIDR,203.75.84.0/24,NetFlixRules,no-resolve
+  - IP-CIDR,203.198.13.0/24,NetFlixRules,no-resolve
+  - IP-CIDR,203.198.80.0/24,NetFlixRules,no-resolve
   - RULE-SET,Disney,🎥Disney+
   - RULE-SET,Youtube,📹Youtube
   - DOMAIN-SUFFIX,video.coral.qq.com,📺爱奇艺等国内流媒体
