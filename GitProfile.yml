@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ✜等级警报✜等级3剩4.9天 流量:243.81GB
+    name: ✜等级警报✜等级3剩4.3天 流量:242.87GB
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -138,7 +138,7 @@ proxies:
       path: /zhs
       headers:
         Host: klusr3.zhs.futbol
-  - name: ❶gR.HK奇点/2/NF*/D+/Yp
+  - name: ❶gR.HK奇点/2/NF*/D+
     type: vmess
     udp: true
     server: hkqd2d.uueai.com
@@ -152,7 +152,7 @@ proxies:
     servername: hkqd2d.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+  - name: ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
     type: vmess
     udp: true
     server: hksh3t.uueai.com
@@ -248,7 +248,7 @@ proxies:
       path: /zhs
       headers:
         Host: wzhkb3.uueai.com
-  - name: ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+  - name: ❷gR.HK嘉禾/阿里云/1/D+/Yp
     type: vmess
     udp: true
     server: hkjh3r.uueai.com
@@ -348,7 +348,7 @@ proxies:
     network: grpc
     grpc-opts:
       grpc-service-name: zhs
-  - name: ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+  - name: ❷gR.TW高雄/荐/1/NF/D+/Yp
     type: trojan
     udp: true
     server: twmc8.uueai.com
@@ -501,7 +501,7 @@ proxies:
     servername: sgali-rd6.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+  - name: CN1•❸gR.TW宝岛/荐/1/D+/Yp
     type: vmess
     udp: true
     server: hkbnx3.uueai.com
@@ -515,7 +515,7 @@ proxies:
     servername: twbdis.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+  - name: ❸gR.TW宝岛/荐/1/D+/Yp
     type: vmess
     udp: true
     server: twbdis.uueai.com
@@ -578,7 +578,7 @@ proxies:
     password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
     skip-cert-verify: false
     sni: hkbnx3.uueai.com
-  - name: ❸TJ.HK契约/1/NF/D+/Yp
+  - name: ❸TJ.HK契约/1/NF*/D+/Yp
     type: trojan
     udp: true
     server: hkqy7u.uueai.com
@@ -599,7 +599,7 @@ proxies:
       path: /zhs
       headers:
         Host: trglnt.uueai.com
-  - name: CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+  - name: CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
     type: trojan
     udp: true
     server: cmbe3-vdn.uueai.com
@@ -607,7 +607,7 @@ proxies:
     password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
     skip-cert-verify: false
     sni: twbdis.uueai.com
-  - name: ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+  - name: ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
     type: trojan
     udp: true
     server: twbdis.uueai.com
@@ -683,7 +683,7 @@ proxies:
       path: /zhs
       headers:
         Host: twzh6v.uueai.com
-  - name: CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+  - name: CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
     type: vmess
     udp: true
     server: cmbe3-vdn.uueai.com
@@ -698,7 +698,7 @@ proxies:
       path: /zhs
       headers:
         Host: twmc8.uueai.com
-  - name: ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+  - name: ❸V2.TW高雄/荐/1/NF/D+/Yp
     type: vmess
     udp: true
     server: twmc8.uueai.com
@@ -735,10 +735,10 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - DIRECT
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -746,7 +746,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -754,7 +754,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -767,23 +767,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: 🎥Disney+
     type: select
@@ -793,10 +793,10 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -804,7 +804,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -812,7 +812,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -825,23 +825,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: 📹Youtube
     type: select
@@ -851,10 +851,10 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -862,7 +862,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -870,7 +870,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -883,23 +883,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: 🎬Netflix等国外流媒体
     type: select
@@ -909,10 +909,10 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -920,7 +920,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -928,7 +928,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -941,23 +941,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: 📺爱奇艺等国内流媒体
     type: select
@@ -968,10 +968,10 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -979,7 +979,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -987,7 +987,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -1000,23 +1000,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: 🇨🇳国内网站或资源
     type: select
@@ -1026,10 +1026,10 @@ proxy-groups:
       - NetFlixRoute
       - DIRECT
       - 🚧Proxy
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -1037,7 +1037,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -1045,7 +1045,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -1058,23 +1058,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: 🌵其它规则外
     type: select
@@ -1084,10 +1084,10 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -1095,7 +1095,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -1103,7 +1103,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -1116,23 +1116,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: IYF
     type: select
@@ -1140,10 +1140,10 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -1151,7 +1151,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -1159,7 +1159,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -1172,23 +1172,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: NetFlixRules
     type: select
@@ -1196,10 +1196,10 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ✜等级警报✜等级3剩4.9天 流量:243.81GB
+      - ✜等级警报✜等级3剩4.3天 流量:242.87GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK摄魂/阿里云/荐/1/NF/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
@@ -1207,7 +1207,7 @@ proxy-groups:
       - ❶gR.UK威廉/BBC/1/NF/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/D+/Yp
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
@@ -1215,7 +1215,7 @@ proxy-groups:
       - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
@@ -1228,23 +1228,23 @@ proxy-groups:
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
       - ❸gR.SG星岛/1/NF*/D+/Yp
-      - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
-      - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
+      - CN1•❸gR.TW宝岛/荐/1/D+/Yp
+      - ❸gR.TW宝岛/荐/1/D+/Yp
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸gR.US川谱/v6/1/NF*/D+/Yp
       - ❸TJ.CN贝塔 仅解锁中国 爱/优/腾/B站等/5
       - ❸TJ.HK判官/荐/1/NF/D+/Yp
-      - ❸TJ.HK契约/1/NF/D+/Yp
+      - ❸TJ.HK契约/1/NF*/D+/Yp
       - ❸TJ.TR古灵 [注册Netflix]/5/NF*/D+/Yp
-      - CN1•✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
-      - ✙维护✙❸TJ.TW宝岛/动画疯/荐/3/NF/D+/Yp
+      - CN1•❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
+      - ❸TJ.TW宝岛/动画疯/荐/3/D+/Yp
       - ❸TJ.US加州/1/NF/D+/Yp
       - ❸V2.BR巴西/买游戏/5/NF/D+/Yp
       - ❸V2.CN盛宴 仅解锁中国 爱/优/腾/B站等/5
       - ❸V2.HK天机/荐 /1/NF*/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
-      - CN1•✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
-      - ✙维护✙❸V2.TW高雄/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
       - ❸V2.US加州/2/NF/D+/Yp
   - name: ⚖️ 负载均衡-散列
     type: load-balance
@@ -1276,6 +1276,8 @@ proxy-groups:
     proxies:
       - ❸gR.TW彰化/荐/1/NF/D+/Yp
       - ❸V2.TW彰化/荐/1/NF/D+/Yp
+      - CN1•❸V2.TW高雄/荐/1/NF/D+/Yp
+      - ❸V2.TW高雄/荐/1/NF/D+/Yp
   - name: OpenAI
     type: select
     proxies:
