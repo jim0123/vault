@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ✜等级警报✜等级3剩3.1天 流量:242GB
+    name: ✜等级警报✜等级3剩3天 流量:240.36GB
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -138,7 +138,7 @@ proxies:
       path: /zhs
       headers:
         Host: klusr3.zhs.futbol
-  - name: ❶gR.HK奇点/2/NF*/D+
+  - name: ❶gR.HK奇点/2/D+
     type: vmess
     udp: true
     server: hkqd2d.uueai.com
@@ -783,9 +783,9 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - DIRECT
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -845,9 +845,9 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -907,9 +907,9 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -969,9 +969,9 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1032,9 +1032,9 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1094,9 +1094,9 @@ proxy-groups:
       - NetFlixRoute
       - DIRECT
       - 🚧Proxy
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1156,9 +1156,9 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1216,9 +1216,9 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -1276,9 +1276,9 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ✜等级警报✜等级3剩3.1天 流量:242GB
+      - ✜等级警报✜等级3剩3天 流量:240.36GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+
+      - ❶gR.HK奇点/2/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
