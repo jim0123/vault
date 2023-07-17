@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ✜等级警报✜等级3剩3.2天 流量:242.39GB
+    name: ✜等级警报✜等级3剩3.1天 流量:242GB
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -498,7 +498,7 @@ proxies:
     servername: jpknh5.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❸gR.SG星岛/1/NF/D+/Yp
+  - name: ❸gR.SG星岛/1/NF*/D+/Yp
     type: vmess
     udp: true
     server: sgali-rd6.uueai.com
@@ -783,7 +783,7 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - DIRECT
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -815,7 +815,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -845,7 +845,7 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -877,7 +877,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -907,7 +907,7 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -939,7 +939,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -969,7 +969,7 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1001,7 +1001,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1032,7 +1032,7 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1064,7 +1064,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1094,7 +1094,7 @@ proxy-groups:
       - NetFlixRoute
       - DIRECT
       - 🚧Proxy
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1126,7 +1126,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1156,7 +1156,7 @@ proxy-groups:
       - NetFlixRoute
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1188,7 +1188,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1216,7 +1216,7 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1248,7 +1248,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
@@ -1276,7 +1276,7 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ✜等级警报✜等级3剩3.2天 流量:242.39GB
+      - ✜等级警报✜等级3剩3.1天 流量:242GB
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -1308,7 +1308,7 @@ proxy-groups:
       - CN1•❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP大和/0.8/NF/D+
       - ❸gR.JP柯南/1/NF/D+/Yp
-      - ❸gR.SG星岛/1/NF/D+/Yp
+      - ❸gR.SG星岛/1/NF*/D+/Yp
       - CN1•✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - ✙维护✙❸gR.TW宝岛/荐/1/NF/D+/Yp
       - CN1•❸gR.TW彰化/荐/1/NF/D+/Yp
