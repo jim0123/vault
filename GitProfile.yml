@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ✜等级警报✜等级0剩-0天 流量:233.82GB
+    name: ♥流量:1233.82GB 等级2剩:365天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -138,6 +138,308 @@ proxies:
       path: /zhs
       headers:
         Host: klusr3.zhs.futbol
+  - name: ❶gR.HK奇点/2/D+/Yp
+    type: vmess
+    udp: true
+    server: hkqd2d.uueai.com
+    port: 443
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: hkqd2d.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+    type: vmess
+    udp: true
+    server: hksh3t.uueai.com
+    port: 2095
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: hksh3t.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❶gR.HK灵魂/1/NF/D+/Yp
+    type: vmess
+    udp: true
+    server: hklhjk.uueai.com
+    port: 55999
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: hklhjk.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❶gR.JP忍者/荐/1/NF/D+
+    type: trojan
+    udp: true
+    server: jprz3r.uueai.com
+    port: 40383
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: jprz3r.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❶gR.JP星移/1/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: jpxy9o.uueai.com
+    port: 52335
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: jpxy9o.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❶gR.RU西亚/联通/1
+    type: trojan
+    udp: true
+    server: ruhd1h.uueai.com
+    port: 443
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: ruhd1h.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❶gR.UK威廉/BBC/1/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: ukwlb6.uueai.com
+    port: 59443
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: ukwlb6.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❶gR.US胜地/HBO/1/NF*/D+/Yp
+    type: trojan
+    udp: true
+    server: ussdh7.uueai.com
+    port: 50547
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: ussdh7.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❶TJ.HK天机/荐/1/NF*/D+/Yp
+    type: trojan
+    udp: true
+    server: wzhkb3.uueai.com
+    port: 2083
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: wzhkb3.uueai.com
+    network: ws
+    ws-opts:
+      path: /zhs
+      headers:
+        Host: wzhkb3.uueai.com
+  - name: ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+    type: vmess
+    udp: true
+    server: hkjh3r.uueai.com
+    port: 2052
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: hkjh3r.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.HK天机/荐/1/NF*/D+/Yp
+    type: trojan
+    udp: true
+    server: wzhkb3.uueai.com
+    port: 443
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: wzhkb3.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+    type: vmess
+    udp: true
+    server: hkah9e.uueai.com
+    port: 2086
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: hkah9e.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.JP星移/0.8/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: jpxy9o.uueai.com
+    port: 32331
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: jpxy9o.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.JP死神/1/NF*/D+/Yp
+    type: vmess
+    udp: true
+    server: jpssv5.uueai.com
+    port: 16089
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: jpssv5.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.SG烈焰/1/NF/D+/Yp
+    type: vmess
+    udp: true
+    server: sglyc6.uueai.com
+    port: 50443
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: sglyc6.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: hkbnx3.uueai.com
+    port: 39001
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: twwwn3.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: twwwn3.uueai.com
+    port: 2096
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: twwwn3.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: twmc8.uueai.com
+    port: 2096
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: twmc8.uueai.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.US川谱/1/NF*/D+/Yp
+    type: vmess
+    udp: true
+    server: uscp5g.uueai.com
+    port: 52085
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: uscp5g.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.US神像/荐/1.5/NF*/D+
+    type: vmess
+    udp: true
+    server: ussxhh.uueai.com
+    port: 32098
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: ussxhh.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷gR.US胜地/1/NF*/D+/Yp
+    type: vmess
+    udp: true
+    server: ussdh7.uueai.com
+    port: 60439
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: grpc
+    servername: ussdh7.uueai.com
+    grpc-opts:
+      grpc-service-name: zhs
+  - name: ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: hktkj9.uueai.com
+    port: 2087
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: hktkj9.uueai.com
+  - name: CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: hkbnx3.uueai.com
+    port: 39002
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: twwwn3.uueai.com
+  - name: ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+    type: trojan
+    udp: true
+    server: twwwn3.uueai.com
+    port: 2053
+    password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    skip-cert-verify: false
+    sni: twwwn3.uueai.com
+  - name: ❷V2.HK铠甲/1/NF/D+/Yp
+    type: vmess
+    udp: true
+    server: hktkj9.uueai.com
+    port: 2096
+    uuid: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /zhs
+      headers:
+        Host: hktkj9.uueai.com
 proxy-groups:
   - name: 🚧Proxy
     type: select
@@ -145,8 +447,33 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - DIRECT
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 🎥Disney+
     type: select
     proxies:
@@ -155,8 +482,33 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 📹Youtube
     type: select
     proxies:
@@ -165,8 +517,33 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 🎬Netflix等国外流媒体
     type: select
     proxies:
@@ -175,8 +552,33 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 📺爱奇艺等国内流媒体
     type: select
     proxies:
@@ -186,8 +588,33 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 🇨🇳国内网站或资源
     type: select
     proxies:
@@ -196,8 +623,33 @@ proxy-groups:
       - NetFlixRules
       - DIRECT
       - 🚧Proxy
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 🌵其它规则外
     type: select
     proxies:
@@ -206,24 +658,99 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: IYF
     type: select
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRules
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: NetFlixRules
     type: select
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ✜等级警报✜等级0剩-0天 流量:233.82GB
+      - ♥流量:1233.82GB 等级2剩:365天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF*/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: ⚖️ 负载均衡-散列
     type: load-balance
     url: http://www.google.com/generate_204
@@ -233,7 +760,9 @@ proxy-groups:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-    proxies: []
+    proxies:
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
   - name: Fallback
     type: fallback
     url: http://www.google.com/generate_204
@@ -242,7 +771,9 @@ proxy-groups:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-    proxies: []
+    proxies:
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
   - name: NetFlixRoute
     type: fallback
     url: http://www.netflix.com
@@ -251,11 +782,19 @@ proxy-groups:
       enable: true
       interval: 300
       url: http://www.netflix.com/
-    proxies: []
+    proxies:
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
   - name: OpenAI
     type: select
     proxies:
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
 rule-providers:
   Disney:
     type: http
