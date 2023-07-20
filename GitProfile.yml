@@ -761,13 +761,10 @@ proxy-groups:
       interval: 300
       url: http://www.gstatic.com/generate_204
     proxies:
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
-      - ❷gR.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: Fallback
     type: fallback
     url: http://www.google.com/generate_204
