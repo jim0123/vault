@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ♥流量:1233.61GB 等级2剩:364.8天
+    name: ♥流量:1233.26GB 等级2剩:364.4天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -138,7 +138,7 @@ proxies:
       path: /zhs
       headers:
         Host: klusr3.zhs.futbol
-  - name: ❶gR.HK奇点/2/D+/Yp
+  - name: ❶gR.HK奇点/2/NF*/D+/Yp
     type: vmess
     udp: true
     server: hkqd2d.uueai.com
@@ -166,7 +166,7 @@ proxies:
     servername: hksh3t.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❶gR.HK灵魂/1/NF*/D+/Yp
+  - name: ❶gR.HK灵魂/1/NF/D+/Yp
     type: vmess
     udp: true
     server: hklhjk.uueai.com
@@ -298,7 +298,7 @@ proxies:
     network: grpc
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❷gR.JP死神/1/NF*/D+/Yp
+  - name: ❷gR.JP死神/1/NF/D+/Yp
     type: vmess
     udp: true
     server: jpssv5.uueai.com
@@ -447,11 +447,11 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - DIRECT
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -462,7 +462,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -482,11 +482,11 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -497,7 +497,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -517,11 +517,11 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -532,7 +532,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -552,11 +552,11 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -567,7 +567,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -588,11 +588,11 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -603,7 +603,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -623,11 +623,11 @@ proxy-groups:
       - NetFlixRules
       - DIRECT
       - 🚧Proxy
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -638,7 +638,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -658,11 +658,11 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -673,7 +673,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -691,11 +691,11 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRules
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -706,7 +706,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -724,11 +724,11 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ♥流量:1233.61GB 等级2剩:364.8天
+      - ♥流量:1233.26GB 等级2剩:364.4天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -739,7 +739,7 @@ proxy-groups:
       - ❷gR.HK天机/荐/1/NF*/D+/Yp
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
@@ -761,10 +761,9 @@ proxy-groups:
       interval: 300
       url: http://www.gstatic.com/generate_204
     proxies:
-      - ❶gR.JP忍者/荐/1/NF/D+
-      - ❶gR.JP星移/1/NF/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
   - name: Fallback
     type: fallback
     url: http://www.google.com/generate_204
@@ -774,10 +773,9 @@ proxy-groups:
       interval: 300
       url: http://www.gstatic.com/generate_204
     proxies:
-      - ❶gR.JP忍者/荐/1/NF/D+
-      - ❶gR.JP星移/1/NF/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.JP死神/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
   - name: NetFlixRoute
     type: fallback
     url: http://www.netflix.com
