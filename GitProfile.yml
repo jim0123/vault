@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ♥流量:1227.25GB 等级2剩:363.1天
+    name: ♥流量:1227.49GB 等级2剩:362.9天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -166,7 +166,7 @@ proxies:
     servername: hksh3t.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❶gR.HK灵魂/1/NF/D+/Yp
+  - name: ❶gR.HK灵魂/1/NF*/D+/Yp
     type: vmess
     udp: true
     server: hklhjk.uueai.com
@@ -448,11 +448,11 @@ proxy-groups:
       - warppy
       - Fallback
       - DIRECT
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -483,11 +483,11 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -518,11 +518,11 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -553,11 +553,11 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -589,11 +589,11 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -624,11 +624,11 @@ proxy-groups:
       - NetFlixRules
       - DIRECT
       - 🚧Proxy
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -659,11 +659,11 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -692,11 +692,12 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRules
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - warppy
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -725,11 +726,11 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ♥流量:1227.25GB 等级2剩:363.1天
+      - ♥流量:1227.49GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
       - ❶gR.JP星移/1/NF/D+/Yp
       - ❶gR.RU西亚/联通/1
@@ -795,6 +796,7 @@ proxy-groups:
   - name: OpenAI
     type: select
     proxies:
+      - warppy
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.US胜地/HBO/1/NF*/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
