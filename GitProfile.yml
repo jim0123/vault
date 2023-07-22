@@ -445,6 +445,7 @@ proxy-groups:
     type: select
     proxies:
       - ⚖️ 负载均衡-散列
+      - warppy
       - Fallback
       - DIRECT
       - ♥流量:1227.25GB 等级2剩:363.1天
