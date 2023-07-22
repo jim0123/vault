@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ♥流量:1227.49GB 等级2剩:362.9天
+    name: ♥流量:1227.46GB 等级2剩:362.9天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -448,7 +448,7 @@ proxy-groups:
       - warppy
       - Fallback
       - DIRECT
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -483,7 +483,7 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -518,7 +518,7 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -553,7 +553,7 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -589,7 +589,7 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -624,7 +624,7 @@ proxy-groups:
       - NetFlixRules
       - DIRECT
       - 🚧Proxy
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -659,7 +659,7 @@ proxy-groups:
       - NetFlixRules
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -686,14 +686,14 @@ proxy-groups:
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷V2.HK铠甲/1/NF/D+/Yp
-  - name: IYF
+  - name: Locale
     type: select
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRules
       - warppy
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -726,7 +726,8 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixRoute
-      - ♥流量:1227.49GB 等级2剩:362.9天
+      - warppy
+      - ♥流量:1227.46GB 等级2剩:362.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -878,7 +879,7 @@ rule-providers:
 rules:
   - PROCESS-NAME,uTorrent.exe,DIRECT
   - PROCESS-NAME,v2ray,NetFlixRoute
-  - PROCESS-NAME,爱壹帆.exe,IYF
+  - PROCESS-NAME,爱壹帆.exe,Locale
   - PROCESS-NAME,OneDrive.exe,DIRECT
   - PROCESS-NAME,Plex Media Server.exe,DIRECT
   - DOMAIN-SUFFIX,speedtest.net,DIRECT
@@ -891,10 +892,7 @@ rules:
   - DOMAIN-SUFFIX,onetrust.com,🚧Proxy
   - DOMAIN-SUFFIX,keeflys.com,🚧Proxy
   - DOMAIN-SUFFIX,steamstatic.com,🚧Proxy
-  - DOMAIN-SUFFIX,ign.com,🚧Proxy
-  - DOMAIN-KEYWORD,linkedin,🚧Proxy
   - DOMAIN-KEYWORD,dropbox,🚧Proxy
-  - DOMAIN-SUFFIX,licdn.com,🚧Proxy
   - DOMAIN-SUFFIX,missav.com,🚧Proxy
   - DOMAIN-SUFFIX,91porn.com,🚧Proxy
   - DOMAIN-SUFFIX,amazon.com,🚧Proxy
@@ -915,13 +913,16 @@ rules:
   - DOMAIN-SUFFIX,fvs.io,🚧Proxy
   - DOMAIN-SUFFIX,vultr.com,🚧Proxy
   - DOMAIN-SUFFIX,openai.com,OpenAI
-  - DOMAIN-SUFFIX,auth0.com,🚧Proxy
-  - DOMAIN-SUFFIX,anygate.vip,IYF
-  - DOMAIN-SUFFIX,dnvodcdn.me,IYF
-  - DOMAIN-SUFFIX,iyf.tv,IYF
-  - DOMAIN-SUFFIX,jssp.tv,IYF
-  - DOMAIN-SUFFIX,global-cdn.me,IYF
-  - DOMAIN-SUFFIX,apiregion721.xyz,IYF
+  - DOMAIN-SUFFIX,auth0.com,OpenAI
+  - DOMAIN-SUFFIX,ign.com,Locale
+  - DOMAIN-KEYWORD,linkedin,Locale
+  - DOMAIN-SUFFIX,licdn.com,Locale
+  - DOMAIN-SUFFIX,anygate.vip,Locale
+  - DOMAIN-SUFFIX,dnvodcdn.me,Locale
+  - DOMAIN-SUFFIX,iyf.tv,Locale
+  - DOMAIN-SUFFIX,jssp.tv,Locale
+  - DOMAIN-SUFFIX,global-cdn.me,Locale
+  - DOMAIN-SUFFIX,apiregion721.xyz,Locale
   - IP-CIDR,210.0.153.0/24,NetFlixRules
   - IP-CIDR,203.75.84.0/24,NetFlixRules
   - IP-CIDR,203.198.13.0/24,NetFlixRules
