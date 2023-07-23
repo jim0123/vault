@@ -444,6 +444,8 @@ proxy-groups:
   - name: 🚧Proxy
     type: select
     proxies:
+      - NetFlixSelect
+      - NetFlixAuto
       - ⚖️ 负载均衡-散列
       - warppy
       - Fallback
@@ -480,7 +482,8 @@ proxy-groups:
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
-      - NetFlixRules
+      - NetFlixSelect
+      - NetFlixAuto
       - 🚧Proxy
       - DIRECT
       - ♥流量:1227.4GB 等级2剩:361.9天
@@ -515,7 +518,8 @@ proxy-groups:
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
-      - NetFlixRules
+      - NetFlixSelect
+      - NetFlixAuto
       - 🚧Proxy
       - DIRECT
       - ♥流量:1227.4GB 等级2剩:361.9天
@@ -550,7 +554,8 @@ proxy-groups:
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
-      - NetFlixRules
+      - NetFlixSelect
+      - NetFlixAuto
       - 🚧Proxy
       - DIRECT
       - ♥流量:1227.4GB 等级2剩:361.9天
@@ -585,7 +590,8 @@ proxy-groups:
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
-      - NetFlixRules
+      - NetFlixSelect
+      - NetFlixAuto
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
@@ -621,7 +627,8 @@ proxy-groups:
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
-      - NetFlixRules
+      - NetFlixSelect
+      - NetFlixAuto
       - DIRECT
       - 🚧Proxy
       - ♥流量:1227.4GB 等级2剩:361.9天
@@ -656,7 +663,8 @@ proxy-groups:
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
-      - NetFlixRules
+      - NetFlixSelect
+      - NetFlixAuto
       - 🚧Proxy
       - DIRECT
       - ♥流量:1227.4GB 等级2剩:361.9天
@@ -691,41 +699,8 @@ proxy-groups:
     proxies:
       - ⚖️ 负载均衡-散列
       - Fallback
-      - NetFlixRules
-      - warppy
-      - ♥流量:1227.4GB 等级2剩:361.9天
-      - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
-      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
-      - ❶gR.HK灵魂/1/NF*/D+/Yp
-      - ❶gR.JP忍者/荐/1/NF/D+
-      - ❶gR.JP星移/1/NF/D+/Yp
-      - ❶gR.RU西亚/联通/1
-      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
-      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
-      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
-      - ❷gR.HK天机/荐/1/NF*/D+/Yp
-      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
-      - ❷gR.JP星移/0.8/NF/D+/Yp
-      - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
-      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
-      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
-      - ❷gR.US川谱/1/NF*/D+/Yp
-      - ❷gR.US神像/荐/1.5/NF*/D+
-      - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
-      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF/D+/Yp
-  - name: NetFlixRules
-    type: select
-    proxies:
-      - ⚖️ 负载均衡-散列
-      - Fallback
-      - NetFlixRoute
+      - NetFlixSelect
+      - NetFlixAuto
       - warppy
       - ♥流量:1227.4GB 等级2剩:361.9天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
@@ -764,6 +739,10 @@ proxy-groups:
       interval: 300
       url: http://www.gstatic.com/generate_204
     proxies:
+      - ⚖️ 负载均衡-散列
+      - Fallback
+      - NetFlixSelect
+      - NetFlixAuto
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
@@ -781,7 +760,7 @@ proxy-groups:
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
       - ❷gR.SG烈焰/1/NF/D+/Yp
-  - name: NetFlixRoute
+  - name: NetFlixAuto
     type: fallback
     url: http://www.netflix.com
     interval: 200
@@ -794,15 +773,9 @@ proxy-groups:
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-  - name: OpenAI
+  - name: NetFlixSelect
     type: select
-    proxies:
-      - warppy
-      - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
-      - ❷gR.US川谱/1/NF*/D+/Yp
-      - ❷gR.US神像/荐/1.5/NF*/D+
-      - ❷gR.US胜地/1/NF*/D+/Yp
+    proxies: []
   - name: warppy
     type: select
     interface-name: warppy
@@ -878,7 +851,7 @@ rule-providers:
     interval: 86400
 rules:
   - PROCESS-NAME,uTorrent.exe,DIRECT
-  - PROCESS-NAME,v2ray,NetFlixRoute
+  - PROCESS-NAME,v2ray,NetFlixAuto
   - PROCESS-NAME,爱壹帆.exe,Locale
   - PROCESS-NAME,OneDrive.exe,DIRECT
   - PROCESS-NAME,Plex Media Server.exe,DIRECT
@@ -912,8 +885,6 @@ rules:
   - DOMAIN-SUFFIX,apkmirror.com,🚧Proxy
   - DOMAIN-SUFFIX,fvs.io,🚧Proxy
   - DOMAIN-SUFFIX,vultr.com,🚧Proxy
-  - DOMAIN-SUFFIX,openai.com,OpenAI
-  - DOMAIN-SUFFIX,auth0.com,OpenAI
   - DOMAIN-SUFFIX,ign.com,Locale
   - DOMAIN-KEYWORD,linkedin,Locale
   - DOMAIN-SUFFIX,licdn.com,Locale
@@ -923,23 +894,23 @@ rules:
   - DOMAIN-SUFFIX,jssp.tv,Locale
   - DOMAIN-SUFFIX,global-cdn.me,🚧Proxy
   - DOMAIN-SUFFIX,dnvodcdn.me,🚧Proxy
-  - IP-CIDR,210.0.153.0/24,NetFlixRules
-  - IP-CIDR,203.75.84.0/24,NetFlixRules
-  - IP-CIDR,203.198.13.0/24,NetFlixRules
-  - IP-CIDR,203.198.80.0/24,NetFlixRules
-  - PROCESS-NAME,com.netflix.mediaclient,NetFlixRules
-  - DOMAIN-SUFFIX,netflix.com,NetFlixRules
-  - DOMAIN-SUFFIX,netflix.net,NetFlixRules
-  - DOMAIN-SUFFIX,nflxext.com,NetFlixRules
-  - DOMAIN-SUFFIX,nflximg.com,NetFlixRules
-  - DOMAIN-SUFFIX,nflximg.net,NetFlixRules
-  - DOMAIN-SUFFIX,nflxso.net,NetFlixRules
-  - DOMAIN-SUFFIX,nflxvideo.net,NetFlixRules
-  - DOMAIN-KEYWORD,netflixdnstest,NetFlixRules
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,NetFlixRules
-  - DOMAIN-KEYWORD,dualstack.apiproxy-,NetFlixRules
-  - RULE-SET,netflix,NetFlixRules
-  - RULE-SET,netflixcidr,NetFlixRules,no-resolve
+  - IP-CIDR,210.0.153.0/24,🎬Netflix等国外流媒体
+  - IP-CIDR,203.75.84.0/24,🎬Netflix等国外流媒体
+  - IP-CIDR,203.198.13.0/24,🎬Netflix等国外流媒体
+  - IP-CIDR,203.198.80.0/24,🎬Netflix等国外流媒体
+  - PROCESS-NAME,com.netflix.mediaclient,🎬Netflix等国外流媒体
+  - DOMAIN-SUFFIX,netflix.com,🎬Netflix等国外流媒体
+  - DOMAIN-SUFFIX,netflix.net,🎬Netflix等国外流媒体
+  - DOMAIN-SUFFIX,nflxext.com,🎬Netflix等国外流媒体
+  - DOMAIN-SUFFIX,nflximg.com,🎬Netflix等国外流媒体
+  - DOMAIN-SUFFIX,nflximg.net,🎬Netflix等国外流媒体
+  - DOMAIN-SUFFIX,nflxso.net,🎬Netflix等国外流媒体
+  - DOMAIN-SUFFIX,nflxvideo.net,🎬Netflix等国外流媒体
+  - DOMAIN-KEYWORD,netflixdnstest,🎬Netflix等国外流媒体
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🎬Netflix等国外流媒体
+  - DOMAIN-KEYWORD,dualstack.apiproxy-,🎬Netflix等国外流媒体
+  - RULE-SET,netflix,🎬Netflix等国外流媒体
+  - RULE-SET,netflixcidr,🎬Netflix等国外流媒体,no-resolve
   - RULE-SET,ChatGPT,📦ChatGPT
   - RULE-SET,Disney,🎥Disney+
   - DOMAIN-SUFFIX,video.coral.qq.com,📺爱奇艺等国内流媒体
