@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ♥流量:1227.26GB 等级2剩:361.8天
+    name: ♥流量:1227.22GB 等级2剩:361.8天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -449,7 +449,7 @@ proxy-groups:
       - warppy
       - Fallback
       - DIRECT
-      - ♥流量:1227.26GB 等级2剩:361.8天
+      - ♥流量:1227.22GB 等级2剩:361.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -479,12 +479,13 @@ proxy-groups:
   - name: 📦ChatGPT
     type: select
     proxies:
+      - warppy
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.26GB 等级2剩:361.8天
+      - ♥流量:1227.22GB 等级2剩:361.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -514,12 +515,49 @@ proxy-groups:
   - name: 🎥Disney+
     type: select
     proxies:
+      - warppy
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.26GB 等级2剩:361.8天
+      - ♥流量:1227.22GB 等级2剩:361.8天
+      - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
+      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
+      - ❶gR.HK灵魂/1/NF/D+/Yp
+      - ❶gR.JP忍者/荐/1/NF/D+
+      - ❶gR.JP星移/1/NF/D+/Yp
+      - ❶gR.RU西亚/联通/1
+      - ❶gR.UK威廉/BBC/1/NF/D+/Yp
+      - ❶gR.US胜地/HBO/1/NF*/D+/Yp
+      - ❶TJ.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK嘉禾/阿里云/1/NF/D+/Yp
+      - ❷gR.HK天机/荐/1/NF*/D+/Yp
+      - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
+      - ❷gR.JP星移/0.8/NF/D+/Yp
+      - ❷gR.JP死神/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
+      - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
+      - ❷gR.US川谱/1/NF*/D+/Yp
+      - ❷gR.US神像/荐/1.5/NF*/D+
+      - ❷gR.US胜地/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
+      - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
+  - name: 📹Youtube
+    type: select
+    proxies:
+      - warppy
+      - ⚖️ 负载均衡-散列
+      - Fallback
+      - NetFlixAuto
+      - 🚧Proxy
+      - DIRECT
+      - ♥流量:1227.22GB 等级2剩:361.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -549,12 +587,13 @@ proxy-groups:
   - name: 🎬Netflix等国外流媒体
     type: select
     proxies:
+      - warppy
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.26GB 等级2剩:361.8天
+      - ♥流量:1227.22GB 等级2剩:361.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -584,13 +623,14 @@ proxy-groups:
   - name: 📺爱奇艺等国内流媒体
     type: select
     proxies:
+      - warppy
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixAuto
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ♥流量:1227.26GB 等级2剩:361.8天
+      - ♥流量:1227.22GB 等级2剩:361.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -620,12 +660,13 @@ proxy-groups:
   - name: 🇨🇳国内网站或资源
     type: select
     proxies:
+      - warppy
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixAuto
       - DIRECT
       - 🚧Proxy
-      - ♥流量:1227.26GB 等级2剩:361.8天
+      - ♥流量:1227.22GB 等级2剩:361.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -655,12 +696,13 @@ proxy-groups:
   - name: 🌵其它规则外
     type: select
     proxies:
+      - warppy
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.26GB 等级2剩:361.8天
+      - ♥流量:1227.22GB 等级2剩:361.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -687,14 +729,15 @@ proxy-groups:
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷V2.HK铠甲/1/NF/D+/Yp
-  - name: Locale
+  - name: GeoStrict
     type: select
     proxies:
+      - warppy
       - ⚖️ 负载均衡-散列
       - Fallback
       - NetFlixAuto
       - warppy
-      - ♥流量:1227.26GB 等级2剩:361.8天
+      - ♥流量:1227.22GB 等级2剩:361.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -780,6 +823,12 @@ rule-providers:
     path: ./Rules/Disney.yaml
     url: https://fastly.jsdelivr.net/gh/tututo/Profiles@master/Clash/RuleSet/StreamingMedia/Video/DisneyPlus.yaml
     interval: 86400
+  Youtube:
+    type: http
+    behavior: classical
+    path: ./Rules/Youtube.yaml
+    url: https://fastly.jsdelivr.net/gh/tututo/Profiles@master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
+    interval: 86400
   Unbreak:
     type: http
     behavior: classical
@@ -837,7 +886,7 @@ rule-providers:
 rules:
   - PROCESS-NAME,uTorrent.exe,DIRECT
   - PROCESS-NAME,v2ray,NetFlixAuto
-  - PROCESS-NAME,爱壹帆.exe,Locale
+  - PROCESS-NAME,爱壹帆.exe,GeoStrict
   - PROCESS-NAME,OneDrive.exe,DIRECT
   - PROCESS-NAME,Plex Media Server.exe,DIRECT
   - DOMAIN-SUFFIX,speedtest.net,DIRECT
@@ -870,13 +919,13 @@ rules:
   - DOMAIN-SUFFIX,apkmirror.com,🚧Proxy
   - DOMAIN-SUFFIX,fvs.io,🚧Proxy
   - DOMAIN-SUFFIX,vultr.com,🚧Proxy
-  - DOMAIN-SUFFIX,ign.com,Locale
-  - DOMAIN-KEYWORD,linkedin,Locale
-  - DOMAIN-SUFFIX,licdn.com,Locale
-  - DOMAIN-SUFFIX,anygate.vip,Locale
-  - DOMAIN-SUFFIX,apiregion721.xyz,Locale
-  - DOMAIN-SUFFIX,iyf.tv,Locale
-  - DOMAIN-SUFFIX,jssp.tv,Locale
+  - DOMAIN-SUFFIX,ign.com,GeoStrict
+  - DOMAIN-KEYWORD,linkedin,GeoStrict
+  - DOMAIN-SUFFIX,licdn.com,GeoStrict
+  - DOMAIN-SUFFIX,anygate.vip,GeoStrict
+  - DOMAIN-SUFFIX,apiregion721.xyz,GeoStrict
+  - DOMAIN-SUFFIX,iyf.tv,GeoStrict
+  - DOMAIN-SUFFIX,jssp.tv,GeoStrict
   - DOMAIN-SUFFIX,global-cdn.me,🚧Proxy
   - DOMAIN-SUFFIX,dnvodcdn.me,🚧Proxy
   - IP-CIDR,210.0.153.0/24,🎬Netflix等国外流媒体
@@ -898,6 +947,7 @@ rules:
   - RULE-SET,netflixcidr,🎬Netflix等国外流媒体,no-resolve
   - RULE-SET,ChatGPT,📦ChatGPT
   - RULE-SET,Disney,🎥Disney+
+  - RULE-SET,Youtube,📹Youtube
   - DOMAIN-SUFFIX,video.coral.qq.com,📺爱奇艺等国内流媒体
   - DOMAIN-SUFFIX,vfiles.gtimg.cn,📺爱奇艺等国内流媒体
   - DOMAIN-SUFFIX,pingjs.qq.com,📺爱奇艺等国内流媒体
