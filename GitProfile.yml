@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ♥流量:1227.92GB 等级2剩:360.9天
+    name: ♥流量:1227.91GB 等级2剩:360.8天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -312,7 +312,7 @@ proxies:
     servername: jpssv5.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❷gR.SG烈焰/1/NF/D+/Yp
+  - name: ❷gR.SG烈焰/1/NF*/D+/Yp
     type: vmess
     udp: true
     server: sglyc6.uueai.com
@@ -449,7 +449,7 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - NetFlixAuto
       - DIRECT
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -465,7 +465,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -485,7 +485,7 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -501,7 +501,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -521,7 +521,7 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -537,7 +537,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -557,7 +557,7 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -573,7 +573,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -593,7 +593,7 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -609,7 +609,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -630,7 +630,7 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -646,7 +646,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -666,7 +666,7 @@ proxy-groups:
       - NetFlixAuto
       - DIRECT
       - 🚧Proxy
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -682,7 +682,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -702,7 +702,7 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -718,7 +718,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -736,7 +736,7 @@ proxy-groups:
       - warppy
       - ⚖️ 负载均衡-散列
       - NetFlixAuto
-      - ♥流量:1227.92GB 等级2剩:360.9天
+      - ♥流量:1227.91GB 等级2剩:360.8天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
       - ❶gR.HK奇点/2/NF*/D+
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
@@ -752,7 +752,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
@@ -776,7 +776,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
   - name: Fallback
     type: fallback
     url: http://www.google.com/generate_204
@@ -789,7 +789,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF/D+/Yp
+      - ❷gR.SG烈焰/1/NF*/D+/Yp
   - name: NetFlixAuto
     type: fallback
     url: http://www.netflix.com
@@ -892,6 +892,7 @@ rules:
   - DOMAIN-SUFFIX,dl.playstation.net,DIRECT
   - DOMAIN-SUFFIX,steamcontent.com,DIRECT
   - DOMAIN-SUFFIX,akamaihd.net,DIRECT
+  - DOMAIN-KEYWORD,ghproxy.com,DIRECT
   - DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com,GeoStrict
   - DOMAIN-SUFFIX,nel.cloudflare.com,GeoStrict
   - DOMAIN-SUFFIX,challenges.cloudflare.com,GeoStrict
