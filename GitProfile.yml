@@ -124,7 +124,7 @@ proxies:
     port: 19491
     password: zhshi.gitlab.io
     cipher: aes-128-gcm
-    name: ♥流量:1227.89GB 等级2剩:360.3天
+    name: ♥流量:1227.88GB 等级2剩:360.2天
   - name: ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
     type: trojan
     udp: true
@@ -138,7 +138,7 @@ proxies:
       path: /zhs
       headers:
         Host: klusr3.zhs.futbol
-  - name: ❶gR.HK奇点/2/NF*/D+/Yp
+  - name: ❶gR.HK奇点/2/D+/Yp
     type: vmess
     udp: true
     server: hkqd2d.uueai.com
@@ -312,7 +312,7 @@ proxies:
     servername: jpssv5.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❷gR.SG烈焰/1/NF*/D+/Yp
+  - name: ❷gR.SG烈焰/1/NF/D+/Yp
     type: vmess
     udp: true
     server: sglyc6.uueai.com
@@ -401,7 +401,7 @@ proxies:
     servername: ussdh7.uueai.com
     grpc-opts:
       grpc-service-name: zhs
-  - name: ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+  - name: ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
     type: trojan
     udp: true
     server: hktkj9.uueai.com
@@ -425,7 +425,7 @@ proxies:
     password: 17bd18fb-d4fb-3ba1-928f-6f231b7ff7d0
     skip-cert-verify: false
     sni: twwwn3.uueai.com
-  - name: ❷V2.HK铠甲/1/NF*/D+/Yp
+  - name: ❷V2.HK铠甲/1/NF/D+/Yp
     type: vmess
     udp: true
     server: hktkj9.uueai.com
@@ -449,9 +449,9 @@ proxy-groups:
       - ⚖️ 负载均衡-散列
       - NetFlixAuto
       - DIRECT
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -465,17 +465,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 📦ChatGPT
     type: select
     proxies:
@@ -485,9 +485,9 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -501,17 +501,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 🎥Disney+
     type: select
     proxies:
@@ -521,9 +521,9 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -537,17 +537,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 📹Youtube
     type: select
     proxies:
@@ -557,9 +557,9 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -573,17 +573,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 🎬Netflix等国外流媒体
     type: select
     proxies:
@@ -593,9 +593,9 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -609,17 +609,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 📺爱奇艺等国内流媒体
     type: select
     proxies:
@@ -630,9 +630,9 @@ proxy-groups:
       - DIRECT
       - 🇨🇳国内网站或资源
       - 🚧Proxy
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -646,17 +646,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 🇨🇳国内网站或资源
     type: select
     proxies:
@@ -666,9 +666,9 @@ proxy-groups:
       - NetFlixAuto
       - DIRECT
       - 🚧Proxy
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -682,17 +682,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: 🌵其它规则外
     type: select
     proxies:
@@ -702,9 +702,9 @@ proxy-groups:
       - NetFlixAuto
       - 🚧Proxy
       - DIRECT
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -718,17 +718,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: GeoStrict
     type: select
     proxies:
@@ -736,9 +736,9 @@ proxy-groups:
       - warppy
       - ⚖️ 负载均衡-散列
       - NetFlixAuto
-      - ♥流量:1227.89GB 等级2剩:360.3天
+      - ♥流量:1227.88GB 等级2剩:360.2天
       - ⓪TJ.US空灵 [备用]/10/NF*/D+/Yp
-      - ❶gR.HK奇点/2/NF*/D+/Yp
+      - ❶gR.HK奇点/2/D+/Yp
       - ❶gR.HK摄魂/阿里云/荐/1/NF*/D+/Yp
       - ❶gR.HK灵魂/1/NF*/D+/Yp
       - ❶gR.JP忍者/荐/1/NF/D+
@@ -752,17 +752,17 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
       - CN1•❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ❷gR.TW台湾/动画疯/1/NF/D+/Yp
       - ✙维护✙❷gR.TW高雄/荐/1/NF/D+/Yp
       - ❷gR.US川谱/1/NF*/D+/Yp
       - ❷gR.US神像/荐/1.5/NF*/D+
       - ❷gR.US胜地/1/NF*/D+/Yp
-      - ❷TJ.HK铠甲/TVB/1/NF*/D+/Yp
+      - ❷TJ.HK铠甲/TVB/1/NF/D+/Yp
       - CN1•❷TJ.TW台湾/动画疯/1/NF/D+/Yp
       - ❷TJ.TW台湾/动画疯/1/NF/D+/Yp
-      - ❷V2.HK铠甲/1/NF*/D+/Yp
+      - ❷V2.HK铠甲/1/NF/D+/Yp
   - name: ⚖️ 负载均衡-散列
     type: load-balance
     url: http://www.google.com/generate_204
@@ -776,7 +776,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
   - name: Fallback
     type: fallback
     url: http://www.google.com/generate_204
@@ -789,7 +789,7 @@ proxy-groups:
       - ❷gR.HK安魂/荐/阿里云/1/NF*/D+/Yp
       - ❷gR.JP星移/0.8/NF/D+/Yp
       - ❷gR.JP死神/1/NF*/D+/Yp
-      - ❷gR.SG烈焰/1/NF*/D+/Yp
+      - ❷gR.SG烈焰/1/NF/D+/Yp
   - name: NetFlixAuto
     type: fallback
     url: http://www.netflix.com
@@ -884,8 +884,6 @@ rule-providers:
     interval: 86400
 rules:
   - PROCESS-NAME,uTorrent.exe,DIRECT
-  - PROCESS-NAME,v2ray,NetFlixAuto
-  - PROCESS-NAME,爱壹帆.exe,GeoStrict
   - PROCESS-NAME,OneDrive.exe,DIRECT
   - PROCESS-NAME,Plex Media Server.exe,DIRECT
   - DOMAIN-SUFFIX,speedtest.net,DIRECT
@@ -893,6 +891,7 @@ rules:
   - DOMAIN-SUFFIX,steamcontent.com,DIRECT
   - DOMAIN-SUFFIX,akamaihd.net,DIRECT
   - DOMAIN-KEYWORD,ghproxy.com,DIRECT
+  - PROCESS-NAME,爱壹帆.exe,GeoStrict
   - DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com,GeoStrict
   - DOMAIN-SUFFIX,nel.cloudflare.com,GeoStrict
   - DOMAIN-SUFFIX,challenges.cloudflare.com,GeoStrict
